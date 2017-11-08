@@ -1,14 +1,18 @@
 {
-  "name": "node_webserver_practice",
-  "version": "1.0.0",
-  "description": "First Practice Node Server",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.2"
-  }
+    "name": "node_webserver_practice",
+    "version": "1.0.0",
+    "description": "First Practice Node Server",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ClaytonHendricks/NodePractice.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Clayton Hendricks",
+    "license": "ISC",
+    "dependencies": {
+        "express": "~4.13.3"
+    }
 }
